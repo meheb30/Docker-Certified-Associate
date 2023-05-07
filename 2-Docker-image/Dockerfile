@@ -1,6 +1,4 @@
-# Use a smaller base image
 FROM httpd:2.4-alpine
-
 LABEL maintainer="Varun Manik"
 
 # Copy only the necessary files
